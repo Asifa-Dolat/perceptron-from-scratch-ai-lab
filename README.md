@@ -1,4 +1,4 @@
-# Perceptron Learning Algorithm (From Scratch)
+# Perceptron Learning Algorithm 
 
 ## Project Overview
 This project implements a single-layer Perceptron model from scratch in Python. The perceptron is a simple supervised learning algorithm used for binary classification tasks.
