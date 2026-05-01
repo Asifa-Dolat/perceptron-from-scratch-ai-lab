@@ -50,5 +50,3 @@ The model is trained on the AND gate dataset:
 
 ---
 
-## Author
-Student Project – Artificial Intelligence Course
